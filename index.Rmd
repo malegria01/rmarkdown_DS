@@ -1,5 +1,5 @@
 ---
-title: "Introduccion al analis de datos con R y Rstudio"
+title: "Introducción al análisis de datos con R y Rstudio"
 author: "Melissa Alegría Arcos"
 output:
   html_document:
